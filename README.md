@@ -5,9 +5,11 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Shrutika-green)](https://shrutikajori.github.io/Shrutikaprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shrutika-yellow)](https://stackoverflow.com/users/19611700/shrutikajori)
 
+
 I'm Shrutika Jori.
 
 I am a third year Computer Engineering student at College of Engineering, Pune.
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/ShrutikaJori/count.svg)
