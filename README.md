@@ -5,9 +5,9 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Shrutika-green)](https://shrutikajori.github.io/Shrutikaprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shrutika-yellow)](https://stackoverflow.com/users/19611700/shrutikajori)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX)
+I'm Shrutika Jori.
+I am a third year Computer Engineering student at College of Engineering, Pune.
+
 
 ![Visitor Count](https://profile-counter.glitch.me/ShrutikaJori/count.svg)
 
