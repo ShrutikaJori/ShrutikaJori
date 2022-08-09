@@ -24,8 +24,8 @@ I am a third year Computer Engineering student at College of Engineering, Pune.
 Languages and Tools: 
 
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/>   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> 
-![](https://activity-graph.herokuapp.com/graph?username=ShrutikaJori&theme=react-dark&area=true)
-<!--
+
+
 **ShrutikaJori/ShrutikaJori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
